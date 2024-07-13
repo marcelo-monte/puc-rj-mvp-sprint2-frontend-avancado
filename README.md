@@ -44,6 +44,7 @@ https://www.figma.com/design/1gS8fuJ2lIXIXSC5z3bXED/MVP---Frontend-Avan%C3%A7ado
 ```
 
 2. Instale as dependências.
+
    `npm install`
 
 3. Execute a aplicação em modo de desenvolvimento e clique no link apresentado para acessar:
